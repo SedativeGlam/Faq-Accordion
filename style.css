@@ -97,13 +97,17 @@ hr {
   }
 
   .container {
-    width: 60%;
+    width: 90%;
     top: 18%;
-    left: 20%;
+    left: 5%;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1028px) {
+  body {
+    background-color: #e5dbec;
+  }
+
   .container {
     width: 60%;
     top: 17%;
