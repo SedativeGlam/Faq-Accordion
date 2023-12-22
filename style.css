@@ -6,7 +6,6 @@ body {
   margin: 0;
   padding: 0;
   max-width: 1440px;
-  min-height: 140vh;
   font-family: "work sans";
 }
 
@@ -28,7 +27,7 @@ body {
   background-color: white;
   padding: 0 20px;
   border-radius: 8px;
-  box-shadow: 1px 2px 2px 2px hsl(300, 20%, 94%);
+  box-shadow: 1px 2px 2px 2px #f3edf3;
 }
 
 .faqHeader {
@@ -92,13 +91,12 @@ hr {
   }
 
   body {
-    min-height: 120vh;
     background-color: #e5dbec;
   }
 
   .container {
     width: 90%;
-    top: 18%;
+    top: 17%;
     left: 5%;
   }
 }
